@@ -4,7 +4,7 @@ namespace RegistrationForm.Controllers
 {
     public class RegisterController : Controller
     {
-        public IActionResult Index()
+        public IActionResult Register()
         {
             return View();
         }
